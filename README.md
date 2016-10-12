@@ -1,2 +1,2 @@
 # GPSTracker
-Android App that measures distance traveled using GPS, but also mobile network and Wi-Fi.
+Android App that measures distance traveled using GPS, mobile network and Wi-Fi.
